@@ -3,7 +3,8 @@
 - 🔭 Atualmente estou buscando uma oportunidade de trabalho como desenvolvedor mobile Flutter
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na instituição Cruzeiro do Sul
 - 🌱 Estudando Flutter na instituição Rocketseate
-- 📫 Contate-me no e-mail: ralfclaiton@gmail.com
+- - 🌱 Estudando Flutter na instituição Masterclass Flutterando
+- 📫 Contate-me no e-mail: ralfclaiton@gmail.com ou ralfitodev@gmail.com
 - 😄 Pronouns: ele/dele
 
  <div>
